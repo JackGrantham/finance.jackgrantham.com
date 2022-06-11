@@ -1,0 +1,20 @@
+﻿
+To - Do High Priority
+
+- 
+
+
+
+
+
+To - Do Low Priority
+
+- Convert Login/Registration into Partial View Dialogs
+	- Display Conditionally Upon Loading of the Dashboard
+
+- Style Header
+
+- Style Footer
+
+
+

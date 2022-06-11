@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>library.jackgrantham.com</id>
+    <version>1.0.0</version>
+    <authors>library.jackgrantham.com</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Going.Plaid" version="3.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Razor.Runtime" version="2.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jackr\Documents\localdev\jackgrantham.com\library.jackgrantham.com\bin\Debug\net6.0\library.jackgrantham.com.dll" target="lib\net6.0\library.jackgrantham.com.dll" />
+  </files>
+</package>

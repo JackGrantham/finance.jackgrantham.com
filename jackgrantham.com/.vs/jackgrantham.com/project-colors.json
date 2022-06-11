@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7eb0d804-6fbb-4f6a-afa0-b72d753fe7e1": {
+      "ProjectGuid": "7eb0d804-6fbb-4f6a-afa0-b72d753fe7e1",
+      "DisplayName": "finance.jackgrantham.com",
+      "ColorIndex": 0
+    },
+    "d15112f9-d992-4bf5-a7f1-f4ab2a16ca70": {
+      "ProjectGuid": "d15112f9-d992-4bf5-a7f1-f4ab2a16ca70",
+      "DisplayName": "finance.jackgrantham.com",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "03b1466b-61c0-47d9-9a41-c37c4e994a62": {
+      "ProjectGuid": "03b1466b-61c0-47d9-9a41-c37c4e994a62",
+      "DisplayName": "library.jackgrantham.com",
+      "ColorIndex": 2
+    },
+    "a709f3da-658f-4f1c-9837-dd84411252de": {
+      "ProjectGuid": "a709f3da-658f-4f1c-9837-dd84411252de",
+      "DisplayName": "data.jackgrantham.com",
+      "ColorIndex": 3
+    },
+    "42786f15-9bb6-4d66-a198-66da1dc95dbc": {
+      "ProjectGuid": "42786f15-9bb6-4d66-a198-66da1dc95dbc",
+      "DisplayName": "data.jackgrantham.com",
+      "ColorIndex": 4
+    },
+    "0036dbc3-f297-4919-b893-77e0a2e68855": {
+      "ProjectGuid": "0036dbc3-f297-4919-b893-77e0a2e68855",
+      "DisplayName": "database.jackgrantham.com",
+      "ColorIndex": 5
+    },
+    "474be0c6-010e-4b06-9855-4ac684b4ef48": {
+      "ProjectGuid": "474be0c6-010e-4b06-9855-4ac684b4ef48",
+      "DisplayName": "data.jackgrantham.com",
+      "ColorIndex": 6
+    },
+    "08834e2d-b9b0-447a-af52-6e05092226a8": {
+      "ProjectGuid": "08834e2d-b9b0-447a-af52-6e05092226a8",
+      "DisplayName": "test.jackgrantham.com",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

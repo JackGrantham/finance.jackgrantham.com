@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=IBM+Plex+Mono:wght@200&display=swap');
+
+/* #region Identity Styles */
+.form-group {
+    text-align: left;
+}
+
+.validation {
+    font-size: .8rem;
+}
+
+/* #endregion .NET Identity Styles */
+
+/* #region Generic */
+
+:root 
+{
+    --lnavbar-width: 5rem;
+    --rcontent-width: 90%;
+    --overview-width: 18rem;
+    --white-color: #FAFAFA;
+    --dark-white: #d1d1d1;
+    --nav-width: 5rem;
+    --primary-color: #376798;
+    --secondary-color: #6AA8E5;
+    --grey-color: #2e2e2e;
+    --account-color: #969696;
+    --green-color: #63bfa3;
+    --red-color: #d46e8d;
+    --z-fixed: 100;
+    --sidebar-width: 19rem;
+    --header-height: 3rem;
+    --header-font: 'Alegreya Sans', sans-serif;
+    --body-font: 'Nunito', sans-serif;
+    --IBM-mono-font: 'IBM Plex Mono', monospace;
+    --Hubballi-font: 'Hubballi', monospace;
+    --normal-fontsize: 1rem;
+    --gradient: linear-grad(#376798, #6AA8E5);
+    --input-color: #f7f8fa;
+    --input-text-color: #9b9ea5;
+}
+
+h1, h2, h3, h4, h5, h6 
+{
+    font-family: var(--Hubballi-font);
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+
+    h1 span, h2 span, h3 span, h4 span, h5 span, h6 span 
+    {
+        font-size: .7em;
+        color: #899bbd;
+        font-weight: 400;
+    }
+
+input, label
+{
+    font-family: var(--Hubballi-font) !important;
+}
+
+/* #endregion Generic */
+
+

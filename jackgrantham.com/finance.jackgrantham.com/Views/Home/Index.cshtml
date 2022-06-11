@@ -1,0 +1,33 @@
+﻿@using library.jackgrantham.com.Middleware;
+@model DashboardViewModel
+@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "_Layout";
+}
+<script src="~/repos/transactions-gridrepo.js" type="text/javascript"></script>
+<script src="~/repos/plaid_link-repo.js"></script>
+
+<!-- #region Index Content -->
+
+<p>hello world!</p>
+
+<button type="button" class="btn btn-primary" data-bind="click: showPlaidLink">Link Account</button>
+
+<!-- #endregion Index Content -->
+
+@section scripts
+{
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
+<script src="https://cdn.plaid.com/link/v2/stable/link-initialize.js"></script>
+
+<script type="text/javascript">
+
+    var link = null;
+    $(function ()
+    {
+        link = new PlaidLink();
+        ko.applyBindings(link);
+    });
+
+</script>
+}
